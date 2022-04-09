@@ -3,10 +3,11 @@ public class criandoVetor {
         
         int soma = 0;
         int vetor[] = new int [10];
+        int  trocar = 5;
         
 
         for (int i = 0 ; i < 8 ; i ++){
-            vetor [i] = i * 5;
+            vetor [i] = i * trocar;
 
             System.out.println(vetor [i]);
             
