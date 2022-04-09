@@ -7,7 +7,7 @@
 */
 
 
-public class areaTriangulo {
+public class AreaTriangulo {
     public static void main(String[] args) {
         
         double base = 15;
